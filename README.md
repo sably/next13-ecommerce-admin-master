@@ -3,6 +3,7 @@
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 Demo: 👉 [ecommerce-admin](https://next13-ecommerce-admin-master.vercel.app/)
+
 Key Features:
 
 - We will be using Shadcn UI for the Admin!
@@ -30,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-admin.git
+git clone https://github.com/sably/next13-ecommerce-admin-master.git
 ```
 
 ### Install packages
