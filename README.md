@@ -2,6 +2,8 @@
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
+Note: This project is a dashboard for managing project of 👉 [ecommerce-store](https://next13-ecommerce-store-master.vercel.app/)
+
 Demo: 👉 [ecommerce-admin](https://next13-ecommerce-admin-master.vercel.app/)
 
 Key Features:
