@@ -1,10 +1,5 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind,Planetscale, Prisma, MySQL, 2023
 
-For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
-
-Note: This project is a dashboard for managing project of 👉 [ecommerce-store](https://github.com/sably/next13-ecommerce-store-master)
-
-Demo: 👉 [ecommerce-admin](https://next13-ecommerce-admin-master.vercel.app/)
 
 Key Features:
 
@@ -26,8 +21,13 @@ Key Features:
 - Stripe webhooks
 - MySQL + Prisma + PlanetScale
 
+Note: This project is a dashboard for managing project of 👉 [ecommerce-store](https://github.com/sably/next13-ecommerce-store-master)
+
+App Demo: 👉 [ecommerce-admin](https://next13-ecommerce-admin-master.vercel.app/)
+
 ### Prerequisites
 
+For payment DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 **Node version 14.x**
 
 ### Cloning the repository
